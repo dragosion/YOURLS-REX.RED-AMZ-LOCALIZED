@@ -14,6 +14,7 @@ link1-gb
 Works best together with this plugin https://github.com/tobozo/YOURLS-GeoShortURL  
 That plugin redirects the users to each geo locale area - it's the fron-end for this.  
 
+It's useful to have the urls separate so you can see how each locale performs.  
 
 Plugin URI: https://rex.red/?utm_source=amzlocalized-github-plugin&utm_medium=github-amzlocalized-plugin  
   
