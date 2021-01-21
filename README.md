@@ -23,3 +23,9 @@ Otherwise send pull requests. :)
 
 Dragos Ion   
 https://diy.rednumberone.com/?utm_source=amzlocalized-github-plugin&utm_medium=github-amzlocalized-plugin  
+
+Try this with Digital Ocean FREE credit
+Signup with this link https://rex.red/do
+
+Digital Ocean $100 FREE Credit for 60 days!
+You get $100 to spend however you like for 60 days!
